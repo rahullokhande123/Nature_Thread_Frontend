@@ -83,9 +83,6 @@ const About = () => {
     ))}
   </div>
 </div>
-
-
-      {/* Carousel Section */}
       
     </div>
   );
